@@ -5,4 +5,4 @@
 3. Press Down Arrow key
 4. Open Developers Console and enjoy)
 
-Also you can download it from https://openuserjs.org/scripts/rhiskey/Instagram_Parser
+Also you can download it from https://openuserjs.org/scripts/rhiskey/Instagram_Followers_Parser
