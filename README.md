@@ -4,3 +4,5 @@
 2. Go to INSTAGRAM page, open Followers/Followed
 3. Press Left Arrow key
 4. Open Developers Console and enjoy)
+
+Also you can download it from https://openuserjs.org/scripts/rhiskey/Instagram_Parser
