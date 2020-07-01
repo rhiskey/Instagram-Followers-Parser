@@ -6,6 +6,8 @@
 // @author       rhiskey
 // @match        https://www.instagram.com/
 // @grant        none
+// @license CC-BY-SA-3.0; http://creativecommons.org/licenses/by-sa/3.0/
+// @license MIT
 // ==/UserScript==
 
 (function() {
