@@ -127,7 +127,7 @@
                             if (height_scrolling.length == 5) {
                                 height_scrolling = [];
                             }
-                            var timeoutID = setTimeout(run_scrolling(), speed_scrolling);
+						var timeoutID = setTimeout(run_scrolling, speed_scrolling);
                         } else {
                             clearTimeout(timeoutID);
                             start_parsing();
