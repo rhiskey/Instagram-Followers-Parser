@@ -1,5 +1,6 @@
-![Discord](https://img.shields.io/discord/224962875716796418)
+![Discord](https://img.shields.io/discord/224962875716796418) ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/rhiskey/Instagram-Followers-Parser)
 # Instagram Followers Parser
+![GitHub followers](https://img.shields.io/github/followers/rhiskey?label=Follow%20me&style=social)
  Instagram JS Parser
 1. This is script for TAMPERMONKEY
 2. Go to INSTAGRAM page, open Followers/Followed
