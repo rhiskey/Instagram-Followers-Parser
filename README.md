@@ -1,3 +1,4 @@
+![Discord](https://img.shields.io/discord/224962875716796418)
 # Instagram Followers Parser
  Instagram JS Parser
 1. This is script for TAMPERMONKEY
