@@ -4,6 +4,8 @@
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/rhiskey/Instagram-Followers-Parser?style=social)
  Instagram JS Parser
+ 
+![Parsing Followers](https://media.giphy.com/media/DMXDZhBxftgIydf93D/giphy.gif)
 1. This is script for TAMPERMONKEY
 2. Go to INSTAGRAM page, open Followers/Followed
 3. Press Down Arrow key
